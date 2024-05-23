@@ -1,0 +1,8 @@
+.btn {
+  display: block;
+  border: none;
+  padding: 15px 20px;
+  color: beige;
+  background-color: rgb(184, 24, 24);
+  margin-bottom: 30px;
+}

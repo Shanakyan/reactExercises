@@ -1,0 +1,19 @@
+.changeBackground {
+  padding: 15px 20px;
+  background-color: rgb(25, 193, 193);
+  border-radius: 10px;
+  border: none;
+  color: white;
+}
+.black {
+  display: block;
+  margin-top: 30px;
+  background-color: rgb(48, 45, 45);
+  margin: 0 auto;
+}
+.red {
+  display: block;
+  margin-top: 30px;
+  background-color: rgb(208, 48, 56);
+  margin: 0 auto;
+}

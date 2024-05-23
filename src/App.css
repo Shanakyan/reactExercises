@@ -1,0 +1,6 @@
+* {
+  color: rgb(47, 110, 47);
+}
+.wrap {
+  display: flex;
+}

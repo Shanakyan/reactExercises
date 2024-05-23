@@ -1,0 +1,1 @@
+export {BirthComponent} from './BirthComponent'

@@ -1,0 +1,8 @@
+.countBtn {
+  display: block;
+  border: none;
+  padding: 15px 20px;
+  color: beige;
+  background-color: blueviolet;
+  margin-bottom: 30px;
+}

@@ -1,0 +1,1 @@
+export {GetDataApi} from './GetDataApi'

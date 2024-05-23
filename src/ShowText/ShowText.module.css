@@ -1,0 +1,9 @@
+.showText {
+  display: block;
+  padding: 15px 20px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+  color: aliceblue;
+  background-color: rgb(95, 181, 152);
+  border: none;
+}
